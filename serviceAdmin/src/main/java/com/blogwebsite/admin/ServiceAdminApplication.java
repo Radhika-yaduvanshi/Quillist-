@@ -8,6 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 public class ServiceAdminApplication {
 
+	///this is comment
 	public static void main(String[] args) {
 		SpringApplication.run(ServiceAdminApplication.class, args);
 	}
